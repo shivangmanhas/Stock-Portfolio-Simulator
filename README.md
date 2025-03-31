@@ -16,7 +16,7 @@ An interactive dashboard that lets users simulate investments in multiple stocks
 
 ## 📁 Dataset
 Two datasets used:
-1. `portfolio_data_cleaned.csv` – Historical stock data for 6 major companies (AAPL, MSFT, TSLA, AMZN, GOOGL, NVDA) with fields: `Date`, `Open`, `High`, `Low`, `Close`, `Volume`, `Ticker`
+1. `portfolio_data.csv` – Historical stock data for 6 major companies (AAPL, MSFT, TSLA, AMZN, GOOGL, NVDA) with fields: `Date`, `Open`, `High`, `Low`, `Close`, `Volume`, `Ticker`
 2. `investment_weights.csv` – Simulated user-defined investment amounts per stock
 
 ---
@@ -44,7 +44,7 @@ Two datasets used:
 ## 🚀 Getting Started
 
 1. Clone/download this repo
-2. Open `stock_portfolio_simulator.twbx` in Tableau
+2. Open `Interavtive Stock Portfolio Simulator.twbx` in Tableau
 3. Ensure your data source paths are correct (or use Tableau Public)
 4. Adjust parameters to simulate your own investment strategy!
 
